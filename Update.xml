@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<ConfigurationFile>
-<UpdateServerVersionsUrl>https://github.com/selix328/1/blob/master/Update.xml</UpdateServerVersionsUrl>
-<UpdateServerMainExeUrl>https://github.com/selix328/1/blob/master/AutoUpdater.exe</UpdateServerMainExeUrl>
-<LocalMainExe>AutoUpdater.exe</LocalMainExe>
-<Version>2</Version>
-</ConfigurationFile>
