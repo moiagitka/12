@@ -1,2 +1,1 @@
-selix@admin.me
-netunichego@mail.ru
+{"status":"ok","users":[{"steamid":5061271132219551,"steamid":73899663}]}
