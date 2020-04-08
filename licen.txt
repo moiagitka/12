@@ -1,1 +1,1 @@
-{"status":"ok","users":[{"steamid":5061271132219551,"steamid":73899663,"steamid":73899663}]}
+{"status":"ok","users":{"steamid":[5061271132219551,73899663,73899663]}}
